@@ -1,0 +1,16 @@
+import{c,j as e,L as r,d as i}from"./index-BluYXJzo.js";/**
+ * @license lucide-react v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const n=c("Github",[["path",{d:"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4",key:"tonef"}],["path",{d:"M9 18c-4.51 2-5-2-7-2",key:"9comsn"}]]);/**
+ * @license lucide-react v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const l=c("Linkedin",[["path",{d:"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z",key:"c2jq9f"}],["rect",{width:"4",height:"12",x:"2",y:"9",key:"mk3on5"}],["circle",{cx:"4",cy:"4",r:"2",key:"bt5ra8"}]]);/**
+ * @license lucide-react v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const o=c("Twitter",[["path",{d:"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z",key:"pff0z6"}]]),h=()=>{const t=new Date().getFullYear();return e.jsx("footer",{className:"bg-gray-900 text-gray-300",children:e.jsxs("div",{className:"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12",children:[e.jsxs("div",{className:"grid grid-cols-1 md:grid-cols-4 gap-8",children:[e.jsxs("div",{className:"space-y-4",children:[e.jsxs(r,{to:"/",className:"flex items-center space-x-2",children:[e.jsx(i,{className:"h-8 w-8 text-blue-500"}),e.jsx("span",{className:"text-xl font-bold text-white",children:"App-Sense"})]}),e.jsx("p",{className:"text-sm",children:"Building modern web solutions with cutting-edge technology."})]}),e.jsxs("div",{children:[e.jsx("h3",{className:"text-white font-semibold mb-4",children:"Quick Links"}),e.jsx("ul",{className:"space-y-2",children:["About","Work","Blog"].map(s=>e.jsx("li",{children:e.jsx(r,{to:`/${s.toLowerCase()}`,className:"text-sm hover:text-white transition-colors",children:s})},s))})]}),e.jsxs("div",{children:[e.jsx("h3",{className:"text-white font-semibold mb-4",children:"Contact"}),e.jsxs("ul",{className:"space-y-2 text-sm",children:[e.jsx("li",{children:"contact@example.com"}),e.jsx("li",{children:"+1 (555) 123-4567"}),e.jsx("li",{children:"San Francisco, CA"})]})]}),e.jsxs("div",{children:[e.jsx("h3",{className:"text-white font-semibold mb-4",children:"Follow Us"}),e.jsx("div",{className:"flex space-x-4",children:[{icon:n,href:"https://github.com"},{icon:o,href:"https://twitter.com"},{icon:l,href:"https://linkedin.com"}].map((s,a)=>e.jsx("a",{href:s.href,target:"_blank",rel:"noopener noreferrer",className:"hover:text-white transition-colors",children:e.jsx(s.icon,{className:"h-5 w-5"})},a))})]})]}),e.jsx("div",{className:"border-t border-gray-800 mt-12 pt-8 text-sm text-center",children:e.jsxs("p",{children:["© ",t," App-Sense. All rights reserved."]})})]})})},d=({children:t,className:s=""})=>e.jsxs(e.Fragment,{children:[e.jsx("div",{className:`min-h-screen ${s}`,children:t}),e.jsx(h,{})]});export{l as L,d as P,o as T};
